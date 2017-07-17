@@ -22,7 +22,7 @@
   <project path="device/samsung/jalteskt" name="exynos5410/android_device_samsung_jalteskt" />
   <project path="device/samsung/jaltelgt" name="exynos5410/android_device_samsung_jaltelgt" />
   <project path="kernel/samsung/exynos5410" name="Spxg/android_kernel_samsung_exynos5410-cm14.1" />
-  <project path="vendor/samsung" name="exynos5410/proprietary_vendor_samsung" />
+  <project path="vendor/samsung" name="Spxg/proprietary_vendor_samsung" />
 
   <project path="hardware/samsung_slsi-cm/exynos" name="LineageOS/android_hardware_samsung_slsi-cm_exynos" />
   <project path="hardware/samsung_slsi-cm/exynos5" name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" />
