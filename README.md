@@ -10,36 +10,35 @@
    
    ```sh
    cp local_manifest.xml .repo/
-   ```
+   
 * Sync latest LineageOS 14.1 sources
    
    ```sh
    repo sync -j20 --force-sync
-   ```
-
+  　
 * Apply all Patches
    
    ```sh
    ./Exynos5410_patcher/patch.sh
-   ```
+   
 * You are good to go, proceed with the compiling process
 
   OPTIONAL (if you want built-in root support):
    
    ```sh
    export WITH_SU=true
-   ```
+  
 
    ```sh
    export WITH_TWRP=true
-   ```
+   
 
 * FOR SCH-I959 (ja3gduosctc) only. OTHERWISE, REPLACE THE CODENAME WITH OTHERS SUPPORTED (check the manifest).
    
    ```sh
    .build/envsetup.sh && lunch lineage_ja3gduosctc-userdebug
-   ```
+   
    
    ```sh
    brunch lineage_ja3gduosctc-userdebug
-   ```
+   
