@@ -29,10 +29,6 @@
    export WITH_SU=true
   
 
-   ```sh
-   export WITH_TWRP=true
-   
-
 * FOR SCH-I959 (ja3gduosctc) only. OTHERWISE, REPLACE THE CODENAME WITH OTHERS SUPPORTED (check the manifest).
    
    ```sh
