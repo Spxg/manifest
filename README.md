@@ -4,7 +4,7 @@
    
    ```sh
    repo init -u ssh://git@github.com/LineageOS/android.git -b cm-14.1
-   ```
+  
 
 * Add my manifest to the .repo folder (don't worry about the alert you will get about being DEPRECATED)
    
