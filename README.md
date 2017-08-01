@@ -24,8 +24,4 @@ OPTIONAL (if you want built-in root support):
    
    ```sh
    export WITH_SU=true
-* FOR SCH-I959 (ja3gduosctc) only. OTHERWISE, REPLACE THE CODENAME WITH OTHERS SUPPORTED (check the manifest).
-   
-   ```sh
-   .build/envsetup.sh && lunch lineage_ja3gduosctc-userdebug
 
