@@ -20,7 +20,7 @@
   <project path="device/samsung/exynos5410-common" name="exynos5410/android_device_samsung_exynos5410-common" />
   <project path="device/samsung/ja3gduosctc" name="Spxg/android_device_samsung_ja3gduosctc" />
   <project path="kernel/samsung/exynos5410" name="exynos5410/android_kernel_samsung_exynos5410" />
-  <project path="vendor/samsung"  name="Spxg/proprietary_vendor_samsung_ja3gduosctc" revision="master" />
+  <project path="vendor/samsung" name="Spxg/proprietary_vendor_samsung_ja3gduosctc" revision="master" />
 
   <project path="hardware/samsung_slsi-cm/exynos" name="LineageOS/android_hardware_samsung_slsi-cm_exynos" />
   <project path="hardware/samsung_slsi-cm/exynos5" name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" />
