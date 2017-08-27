@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <!--Patcher (run "./Exynos5410_patcher/patche.sh" before each compilation)-->
+  <!--Patcher (run "./Exynos5410_patcher/patch.sh" before each compilation)-->
   <project path="Exynos5410_patcher" name="Spxg/Exynos5410_patcher" revision="master" />
   
   <!-- Remove CM-specific repositories -->
