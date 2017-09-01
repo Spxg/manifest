@@ -18,7 +18,8 @@
 
   <!-- Samsung Galaxy S4 Exynos Repositories -->
   <project path="device/samsung/exynos5410-common" name="exynos5410/android_device_samsung_exynos5410-common" />
-  <project path="device/samsung/ja3gduosctc" name="Spxg/android_device_samsung_ja3gduosctc" />
+  <!-- thank for morhop -->
+  <project path="device/samsung/ja3gduosctc" name="Spxg/android_device_samsung_ja3gduosctc" revision="master" />
   <project path="kernel/samsung/exynos5410" name="exynos5410/android_kernel_samsung_exynos5410" />
   <project path="vendor/samsung" name="Spxg/proprietary_vendor_samsung_ja3gduosctc" revision="master" />
 
