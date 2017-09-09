@@ -4,8 +4,7 @@
   <project path="Exynos5410_patcher" name="Spxg/Exynos5410_patcher" revision="master" />
   
   <!-- Remove CM-specific repositories -->
-  <remove-project name="LineageOS/android_packages_apps_CMBugreport" />
-  <remove-project name="LineageOS/android_packages_apps_CMUpdater" />
+  <remove-project name="LineageOS/android_packages_apps_Updater" />
 
   <project path="bootable/recovery-twrp" name="omnirom/android_bootable_recovery" remote="github" revision="android-7.1" groups="pdk-cw-fs"/>
 
